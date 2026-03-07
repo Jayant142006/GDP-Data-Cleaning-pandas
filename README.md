@@ -1,7 +1,11 @@
-# GDP Data Cleaning using Pandas
+# GDP Data Extraction and Cleaning using Python (Pandas)
 
 ## Project Overview
 This project demonstrates how Python can be used to extract, clean, and transform real-world data. GDP data is scraped from Wikipedia and processed using Pandas.
+
+## Dataset
+The dataset contains nominal GDP estimates of countries obtained from Wikipedia.
+GDP values were originally provided in Million USD and were converted to Billion USD for easier comparison.
 
 ## Tools Used
 - Python
