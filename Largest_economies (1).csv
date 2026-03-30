@@ -1,0 +1,192 @@
+Country,GDP(Million USD),GDP(Billion USD)
+United States,26854599,26854.6
+China,19373586,19373.59
+Japan,4409738,4409.74
+Germany,4308854,4308.85
+India,3736882,3736.88
+United Kingdom,3158938,3158.94
+France,2923489,2923.49
+Italy,2169745,2169.74
+Canada,2089672,2089.67
+Brazil,2081235,2081.24
+Russia,2062649,2062.65
+South Korea,1721909,1721.91
+Australia,1707548,1707.55
+Mexico,1663164,1663.16
+Spain,1492432,1492.43
+Indonesia,1391778,1391.78
+Netherlands,1080880,1080.88
+Saudi Arabia,1061902,1061.9
+Turkey,1029303,1029.3
+Switzerland,869601,869.6
+Taiwan,790728,790.73
+Poland,748887,748.89
+Argentina,641102,641.1
+Belgium,624248,624.25
+Sweden,599052,599.05
+Ireland,594095,594.1
+Thailand,574231,574.23
+Norway,554105,554.1
+Israel,539223,539.22
+Singapore,515548,515.55
+Austria,515199,515.2
+Nigeria,506601,506.6
+United Arab Emirates,498978,498.98
+Vietnam,449094,449.09
+Malaysia,447026,447.03
+Philippines,440901,440.9
+Bangladesh,420516,420.52
+Denmark,405626,405.63
+South Africa,399015,399.02
+Hong Kong,382854,382.85
+Egypt,378110,378.11
+Iran,367970,367.97
+Chile,358557,358.56
+Romania,348902,348.9
+Colombia,334689,334.69
+Czech Republic,330483,330.48
+Finland,301670,301.67
+Peru,268235,268.24
+Iraq,267893,267.89
+Portugal,267721,267.72
+New Zealand,251969,251.97
+Kazakhstan,245695,245.7
+Greece,239300,239.3
+Qatar,219570,219.57
+Algeria,206007,206.01
+Hungary,188505,188.5
+Kuwait,164713,164.71
+Ethiopia,156083,156.08
+Ukraine,148712,148.71
+Morocco,138781,138.78
+Slovakia,127533,127.53
+Ecuador,121291,121.29
+Dominican Republic,121289,121.29
+Puerto Rico,120838,120.84
+Kenya,118130,118.13
+Angola,117877,117.88
+Oman,104902,104.9
+Guatemala,102309,102.31
+Bulgaria,100635,100.64
+Venezuela,96628,96.63
+Uzbekistan,92332,92.33
+Luxembourg,86971,86.97
+Tanzania,85421,85.42
+Turkmenistan,82649,82.65
+Croatia,78881,78.88
+Lithuania,78346,78.35
+Costa Rica,77777,77.78
+Uruguay,77313,77.31
+Panama,77257,77.26
+Ivory Coast,77047,77.05
+Serbia,73961,73.96
+Belarus,73543,73.54
+Azerbaijan,70030,70.03
+DR Congo,69474,69.47
+Slovenia,68108,68.11
+Ghana,66622,66.62
+Myanmar,63988,63.99
+Jordan,52061,52.06
+Tunisia,49815,49.82
+Uganda,49792,49.79
+Cameroon,48625,48.62
+Latvia,47398,47.4
+Sudan,46705,46.7
+Libya,46297,46.3
+Bolivia,46097,46.1
+Bahrain,44870,44.87
+Paraguay,42820,42.82
+Nepal,42097,42.1
+Estonia,41551,41.55
+Macau,35841,35.84
+El Salvador,33752,33.75
+Honduras,32860,32.86
+Papua New Guinea,31362,31.36
+Senegal,31221,31.22
+Cyprus,30864,30.86
+Cambodia,30628,30.63
+Zimbabwe,29931,29.93
+Zambia,29272,29.27
+Iceland,28625,28.62
+Bosnia and Herzegovina,28488,28.49
+Trinidad and Tobago,28223,28.22
+Georgia,27947,27.95
+Haiti,26580,26.58
+Armenia,23725,23.72
+Guinea,23330,23.33
+Burkina Faso,21076,21.08
+Mali,20776,20.78
+Gabon,20330,20.33
+Albania,20177,20.18
+Mozambique,19909,19.91
+Palestine,19206,19.21
+Botswana,19572,19.57
+Yemen,19529,19.53
+Malta,19405,19.4
+Benin,19236,19.24
+Nicaragua,17287,17.29
+Jamaica,17254,17.25
+Mongolia,16908,16.91
+Niger,16617,16.62
+Guyana,16309,16.31
+Brunei,15988,15.99
+Madagascar,15969,15.97
+Moldova,15829,15.83
+North Macedonia,15278,15.28
+Equatorial Guinea,15099,15.1
+Mauritius,14570,14.57
+Bahamas,14114,14.11
+Laos,14091,14.09
+Namibia,13486,13.49
+Rwanda,13149,13.15
+Congo,13031,13.03
+Tajikistan,12796,12.8
+Kyrgyzstan,12309,12.31
+Chad,11962,11.96
+Malawi,11277,11.28
+Mauritania,10966,10.97
+Kosovo,9990,9.99
+Togo,9001,9.0
+Somalia,8738,8.74
+Montenegro,7027,7.03
+South Sudan,7012,7.01
+Maldives,7004,7.0
+Barbados,6117,6.12
+Fiji,5385,5.38
+Eswatini,4824,4.82
+Liberia,4375,4.38
+Djibouti,3916,3.92
+Andorra,3669,3.67
+Aruba,3633,3.63
+Sierra Leone,3520,3.52
+Suriname,3470,3.47
+Burundi,3234,3.23
+Belize,3162,3.16
+Central African Republic,2736,2.74
+Bhutan,2683,2.68
+Eritrea,2666,2.67
+Lesotho,2584,2.58
+Cape Verde,2468,2.47
+Gambia,2277,2.28
+Saint Lucia,2262,2.26
+East Timor,1988,1.99
+Seychelles,1950,1.95
+Guinea-Bissau,1887,1.89
+Antigua and Barbuda,1864,1.86
+San Marino,1807,1.81
+Solomon Islands,1701,1.7
+Comoros,1348,1.35
+Grenada,1274,1.27
+Vanuatu,1064,1.06
+Saint Kitts and Nevis,1052,1.05
+Saint Vincent and the Grenadines,1039,1.04
+Samoa,898,0.9
+Dominica,681,0.68
+São Tomé and Príncipe,625,0.62
+Tonga,541,0.54
+Micronesia,456,0.46
+Marshall Islands,291,0.29
+Palau,262,0.26
+Kiribati,248,0.25
+Nauru,151,0.15
+Tuvalu,65,0.06
